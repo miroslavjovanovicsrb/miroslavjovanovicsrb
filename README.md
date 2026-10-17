@@ -1,5 +1,5 @@
 <h1 align="center">Miroslav Jovanovic</h1>
-<h3 align="center">Python Backend & AI Engineer — RAG · LLM Agents · Document AI · FastAPI</h3>
+<h3 align="center">Python Backend & AI Engineer — RAG · LLM Integration · Process Automation · Full-Stack (Python/JavaScript)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miroslav-jovanovic-python">LinkedIn</a> •
@@ -21,7 +21,7 @@ unstructured technical documentation into precise, natural-language answers.
 - 🔭 Currently building: domain-specific **RAG chatbots** over technical documentation (workshop manuals, diagnostic data, error codes) with **FAISS / Chroma / Hybrid Search** and LLM agents with tool-use
 - 🧩 Document AI pipelines: **Tesseract OCR, OpenCV, ETL** — from paper/PDF to structured data
 - ⚙️ Backend: **Python, FastAPI, asyncio, Pydantic** — connecting OpenAI, Anthropic and local open-source LLMs
-- 🎓 2025/2026: two intensive full-time certifications — **AI & Python Systems Engineer** (33 subjects, 59 practical projects) and **JavaScript Development with AI** (30 subjects, 56 projects), self-funded, 100% credits
+- 🎓 2025/2026: two intensive, self-funded full-time certifications — **AI & Python Systems Engineer** (33 subjects, 59 practical projects, 100% of credits) and **JavaScript Development with AI** (30 subjects, 56 projects, final stage — completing 10/2026)
 - 🚗 Automotive domain expertise: vehicle diagnostics on system level, VIN-based data platforms
 
 ## 🛠️ Tech Stack
