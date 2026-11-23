@@ -27,6 +27,7 @@ Customer code and customer data are confidential and are not published in this G
 ## Development Projects
 
 - RAG applications over workshop manuals, diagnostic data and fault codes using FAISS, Chroma and hybrid search.
+- **XRechnung Generator (EN 16931):** open-source Python engine for generating KoSIT-validated e-invoices in XRechnung/UBL 2.1 format, with a full test suite. MIT license. Also the technical basis of my commercial product *Hermes* (jovanovic-systems.de/hermes).
 - LLM integrations and tool-using agents with Python and FastAPI.
 - Document-processing pipelines with Tesseract OCR, OpenCV and ETL.
 
